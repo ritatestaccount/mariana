@@ -38,7 +38,7 @@ width: 30%;
 }
 
 
-#galeria-imagens {
+#galeria-imagens-1 {
     
     width: 66%;
     min-width: 300px;
@@ -74,7 +74,7 @@ width: 30%;
     
     }
     
-    #galeria-imagens{
+    #galeria-imagens-1{
         
         max-width: 1000px;
     }
@@ -91,10 +91,10 @@ width: 30%;
 
 @media only screen and (max-width: 782px){
 
-    #galeria-imagens{
+    #galeria-imagens-1{
         
         width: 100%;
-        top: 400px;
+        top: 600px;
     }
     
     
@@ -108,7 +108,7 @@ width: 30%;
     
     #espaco-mobile{
         display: block;
-        height: 400px;
+        height: 600px;
        
     }
     
