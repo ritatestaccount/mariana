@@ -14,6 +14,150 @@ This theme, like WordPress, is licensed under the GPL.
 
 */
 
+
+
+@media screen and (min-width: 1px) and (max-width: 607px) {
+
+
+    
+    #education {
+        
+        margin-top: 1050px !important;
+    }
+}
+
+
+
+@media screen and (min-width: 608px) and (max-width: 684px) {
+
+
+    
+    #education {
+        
+        margin-top: 800px !important;
+    }
+}
+
+
+
+
+
+
+@media screen and (min-width: 1px) and (max-width: 685px) {
+
+
+#timeline-sq{
+    
+    
+   width: 33% !important; 
+    min-width: 190px !important;
+    font-size: 12px !important;
+    
+}
+    
+     #date {
+    
+    width: 15% !important;
+   
+    
+}
+
+
+#text-education {
+    
+    width: 85% !important;
+  
+    
+}
+    
+   
+}
+
+@media screen and (min-width: 684px) and (max-width: 990px) {
+
+
+#timeline-sq{
+    
+    
+   width: 33% !important; 
+
+    font-size: 14px !important;
+    
+}
+    
+    #education {
+        
+        margin-top: 800px !important;
+    }
+    
+    
+    #date {
+    
+    width: 10% !important;
+   
+    
+}
+
+
+#text-education {
+    
+    width: 85% !important;
+  
+    
+}
+    
+}
+
+@media screen and (min-width: 991px) and (max-width: 1150px) {
+
+
+#timeline-sq{
+    
+    
+   
+    font-size: 12px !important;
+    
+}
+    
+}
+
+
+
+#date {
+    
+    width: 7%;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 17px;
+    padding: 5px;
+    float: left;
+    
+}
+
+
+#text-education {
+    
+    width: 50%;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    padding: 5px;
+    float: left;
+    
+}
+
+#timeline-sq{
+    
+    
+   
+   
+    padding: 15px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    
+}
+
 #download-cv a:hover{
   
     font-size: 18.5px;
