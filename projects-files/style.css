@@ -75,6 +75,11 @@ width: 30%;
     display: none;
 }
 
+#espaco-mobile-partilha-communities {
+    
+    display: none;
+}
+
  #espaco-mobile-partilha-watermark{
         
         display: none;
@@ -167,6 +172,14 @@ width: 30%;
     
     }
     
+     #espaco-mobile-partilha-communities{
+        
+        display: block;
+        height: 580px !important;
+      
+    
+    }
+    
      #espaco-mobile-partilha-watermark{
         
         display: block;
@@ -217,6 +230,14 @@ width: 30%;
         
         display: block;
         height: 970px !important;
+      
+    
+    }
+    
+    #espaco-mobile-partilha-communities{
+        
+        display: block;
+        height: 820px !important;
       
     
     }
